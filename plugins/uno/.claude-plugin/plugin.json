@@ -1,11 +1,11 @@
 {
-  "name": "uno",
+  "name": "mt-uno-workflow",
   "displayName": "Uno Platform trust workflow (personal)",
   "version": "0.2.0",
   "description": "A personal Claude Code workflow for building Uno Platform apps you can trust and change: spec first, component states, adversarial QA, audit with change-cost probes, build gates, runtime verification, completeness audit, measured performance work, and session handoff.",
   "author": {
     "name": "Matthew Mattei",
-    "url": "https://github.com/mtmattei"
+    "url": "https://github.com/noknowscode"
   },
   "license": "MIT",
   "keywords": ["uno-platform", "xaml", "winui", "dotnet", "workflow", "quality"]

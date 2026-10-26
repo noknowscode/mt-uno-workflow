@@ -1,4 +1,4 @@
-# Uno Platform trust workflow for Claude Code
+# mt-uno-workflow
 
 The rules, skills and hooks I use to build Uno Platform apps with an AI agent and still trust the code.
 
@@ -36,11 +36,11 @@ The rules, skills and hooks I use to build Uno Platform apps with an AI agent an
 ## Install
 
 ```bash
-claude plugin marketplace add mtmattei/claude-uno-plugins
-claude plugin install uno@mtmattei
+claude plugin marketplace add noknowscode/mt-uno-workflow
+claude plugin install mt-uno-workflow@noknowscode
 ```
 
-Skills appear namespaced, for example `/uno:uno-verify`.
+Skills appear namespaced, for example `/mt-uno-workflow:uno-verify`.
 
 ## Optional hooks
 
