@@ -1,15 +1,15 @@
 {
-  "name": "mtmattei",
+  "name": "noknowscode",
   "owner": {
     "name": "Matthew Mattei",
-    "url": "https://github.com/mtmattei"
+    "url": "https://github.com/noknowscode"
   },
-  "description": "Uno Platform and XAML skills for Claude Code",
+  "description": "A personal Uno Platform workflow for Claude Code",
   "plugins": [
     {
-      "name": "uno",
+      "name": "mt-uno-workflow",
       "source": "./plugins/uno",
-      "description": "Uno Platform / WinUI XAML development skills: MVUX, navigation, Material theming, Toolkit, SkiaSharp, art direction, motion polish, migration, and build troubleshooting."
+      "description": "A personal Claude Code workflow for building Uno Platform apps you can trust and change: spec, states, QA, audit, build gates, verification, completeness, performance, handoff."
     }
   ]
 }
